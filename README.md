@@ -37,7 +37,7 @@ Connect your I2S microphone to the ESP32-S3-DevKitC-1 as shown below:
 
 ### Clone this repo with submodules
 
-git clone --recurse-submodules https://github.com/klumw/wakeword-computer.git
+git clone --recurse-submodules https://github.com/klumw/wakeword.git
 
 ### Build with idf.py
 idf.py set-target esp32s3  
