@@ -1,0 +1,7 @@
+build
+sdkconfig*
+!sdkconfig.defaults
+!sdkconfig.defaults.esp32s3
+managed_components
+.vscode
+
